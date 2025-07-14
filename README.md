@@ -6,7 +6,7 @@ Introduction
 
 This is a simple yet practical to-do list application built using HTML, CSS, and JavaScript.
 
-app link:https://janujagruti.github.io/todo-app/
+app link:https://colortheory.rf.gd/todo-app/
 
 Features:
 
